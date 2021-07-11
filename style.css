@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 5%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.colour {
+    color: forestgreen;
+}
+
+section {
+    display: flex;
+}
+
+.link {
+    display: inline-block;
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 20px 5px;
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient( green, gray);
+}
+
+p {
+    font-size: 20px;
+}
+
+.text1 {
+    width: 100%;
+    padding-left: 0%;
+}
+
+.picture img {
+    width: 100%;
+    padding-right: 50%;
+}
