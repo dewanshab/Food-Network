@@ -71,7 +71,19 @@ p {
     padding-top: 20%;
 }
 
-.pic img {
+.pic1 img {
+    width: 100%;
+}
+
+.pic1 {
+    padding-right: 3.5%;
+}
+
+.pic2 img {
+    width: 90%;
+}
+
+.pic3 img {
     width: 90%;
 }
 
@@ -90,4 +102,30 @@ h2 {
 
 h3 {
     font-size: 30px;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+h4 {
+    padding-top: 10%;
+}
+
+h5 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.pad {
+    text-align: center;
+}
+
+.background {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    width: 100%;
+    height: 400px;
 }
