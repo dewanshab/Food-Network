@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .colour {
@@ -43,9 +43,9 @@ p {
     background-image: url(images/shapes/Frame\ 56.jpg);
     background-size: auto;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 0%;
     width: 100%;
-    height: 600px;
+    height: 730px;
 }
 
 .picture2 img {
@@ -59,11 +59,35 @@ p {
     height: 900px;
 }
 
-#part2 {
-    padding-left: 50%;
-}
-
 .text2 {
     width: 100%;
-    padding-left: 50%;
+    padding-left: 40%;
+    padding-top: 10%;
+}
+
+.section3 {
+    width: 100%;
+    height: 900px;
+    padding-top: 20%;
+}
+
+.pic img {
+    width: 90%;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20%;
+    font-size: 40px;
+    color: gray;
+}
+
+.header3 {
+    text-align: center;
+    width: 33%;
+    padding-left: 33%;
+}
+
+h3 {
+    font-size: 30px;
 }
